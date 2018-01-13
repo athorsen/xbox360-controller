@@ -1,0 +1,18 @@
+{
+  "name": "xbox360-controller",
+  "version": "0.1.0",
+  "description": "Module for utilizing Xbox 360 controllers in Node.js applications",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athorsen/xbox360-controller.git"
+  },
+  "author": "Tony Thorsen",
+  "bugs": {
+    "url": "https://github.com/athorsen/xbox360-controller/issues"
+  },
+  "homepage": "https://github.com/athorsen/xbox360-controller#readme",
+  "dependencies": {
+    "gamepad": "^1.4.2",
+    "lodash": "^4.17.4"
+  }
+}

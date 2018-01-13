@@ -1,0 +1,31 @@
+{
+  "productId": 654,
+  "vendorId": 1118,
+
+  "mappings": {
+    "buttons": [
+      { "id": 13, "name": "Y" },
+      { "id": 11, "name": "B" },
+      { "id": 10, "name": "A" },
+      { "id": 12, "name": "X" },
+      { "id": 4, "name": "START" },
+      { "id": 5, "name": "SELECT" },
+      { "id": 8, "name": "LB" },
+      { "id": 9, "name": "RB" },
+      { "id": 6, "name": "LEFT_STICK" },
+      { "id": 7, "name": "RIGHT_STICK" },
+      { "id": 2, "name": "LEFT" },
+      { "id": 3, "name": "RIGHT" },
+      { "id": 0, "name": "UP" },
+      { "id": 1, "name": "DOWN" }
+    ],
+    "axes": [
+      { "id": 4, "name": "LT" },
+      { "id": 5, "name": "RT" },
+      { "id": 0, "name": "LEFT_X" },
+      { "id": 1, "name": "LEFT_Y" },
+      { "id": 2, "name": "RIGHT_X" },
+      { "id": 3, "name": "RIGHT_Y" }
+    ]
+  }
+}
