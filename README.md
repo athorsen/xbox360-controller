@@ -4,7 +4,7 @@ This is a Node.js module that allows you to use Xbox 360 controllers in your app
 
 It wraps [Gamepad](https://github.com/creationix/node-gamepad "Gamepad"), but takes things a step further by mapping the button and axis control Ids to meaningful/humand-readable names.
 
-It also disregards any controller connected to your system that isn't an Xbox 360 controller.
+It also disregards any controllers connected to your system that aren't an Xbox 360 controller.
 
 Of course, with some updates to the **config.json** file, you can make this module work with other types of controllers from other vendors.
 
