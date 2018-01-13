@@ -2,7 +2,7 @@
   "name": "xbox360-controller",
   "version": "0.1.0",
   "description": "Module for utilizing Xbox 360 controllers in Node.js applications",
-  "main": "index.js",
+  "main": "xbox360-controller.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/athorsen/xbox360-controller.git"
